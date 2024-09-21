@@ -1,0 +1,63 @@
+.signup-container {
+    background-color: #100b13; /* Dark violet background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .bg-white {
+    background-color: #F5E0EB; /* Lighter shade of purple for contrast */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #000000; /* White heading text */
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .lol {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight >;
+    font-style: medium 500;
+    font-variation-settings:
+    "wdth" 500;
+  }
+  
+  
+  label {
+    color: #201e1e; /* Light grey label text */
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #b2aac4; /* Darker purple input background */
+    color: #FFFFFF; /* White input text */
+  }
+  
+  .btn-dark {
+    background-color: #121114; /* Darker purple button background */
+    border-color: #8059C0;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .btn-dark:hover {
+    background-color: #664499; /* Even darker purple on hover */
+  }
+  
+  .grey-link {
+    color: #BFBFBF; /* Light grey link text */
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+  }
